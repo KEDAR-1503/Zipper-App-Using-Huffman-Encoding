@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ZipperApp.iml" filepath="$PROJECT_DIR$/ZipperApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zipper-App-Using-Huffman-Encoding.iml" filepath="$PROJECT_DIR$/Zipper-App-Using-Huffman-Encoding.iml" />
     </modules>
   </component>
 </project>
